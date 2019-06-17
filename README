@@ -46,3 +46,12 @@ Configuration
 -------------
 The configuration of dwm is done by creating a custom config.h
 and (re)compiling the source code.
+
+Custom Notes
+------------
+
+My personal custom configuration. Starting from tag 6.2, I apply changes in
+the following order:
+
+- pertag patch from Patch-pertag
+- my personal configuration from MyConfig

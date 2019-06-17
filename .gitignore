@@ -1,0 +1,7 @@
+# Common C output and binaries
+*.o
+dwm
+
+# NOTE: We generate this file from config.def.h, which appears to be the
+#       frequent target of patches anyway
+config.h
